@@ -16,7 +16,8 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true&hide_title=true)
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
@@ -58,6 +59,7 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 | **Options Pricing Analyzer** | Live NSE options with Black-Scholes + Greeks | Python, Streamlit | [GitHub](https://github.com/SHAUNSET/options-pricing-analyzer) |
 | **Market Simulator** | Virtual trading platform | Java, Swing, SQLite | [GitHub](https://github.com/SHAUNSET/market_simulator) |
 | **EMA Trading Strategy** | Backtesting + paper trading engine | FastAPI, Pandas | [GitHub](https://github.com/SHAUNSET/ema-trading-simulator) |
+| **Coffee Roasting Predictor** | Binary classification with TensorFlow/NumPy | TensorFlow, Streamlit | [GitHub](https://github.com/SHAUNSET/coffee-quality-predictor) |
 | **S&P 500 Portfolio Builder** | Equal-weight portfolio simulator | Streamlit, yFinance | [GitHub](https://github.com/SHAUNSET/sandp500) |
 
 ---
@@ -67,8 +69,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 - **Published Writer** - [Young India](https://youngindia.netlify.app/)
 - **JPMC Forage** - Quantitative Research & Software Engineering
 - **Coursera** - Wharton, Stanford, Yale certifications in finance & ML
-- **Technical Lead** - GDG & ACES College Clubs
-- **LeetCode** - 160+ problems solved across multiple patterns
 
 ---
 
@@ -80,6 +80,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-![Snake Animation](https://github.com/SHAUNSET/SHAUNSET/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/output/github-contribution-grid-snake.svg)
 
-### ⭐ “Learning every day. Building every week. Improving every month.”
+### ⭐ "Learning every day. Building every week. Improving every month."
