@@ -16,8 +16,14 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true" width="500">
+## 📊 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=SHAUNSET&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/SHAUNSET?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/SHAUNSET?style=social)
+
+**📈 Contribution Graph:**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github)
 
 ---
 
