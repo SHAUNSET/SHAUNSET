@@ -84,7 +84,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 - **Published Writer** - [Young India](https://youngindia.netlify.app/)
 - **JPMC Forage** - Quantitative Research & Software Engineering
 - **Coursera** - Wharton, Stanford, Yale certifications in finance & ML
-- **LeetCode** - 160+ problems solved across multiple patterns
 
 ---
 
