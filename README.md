@@ -1,5 +1,11 @@
+## Hi there 👋
 
 # Shaunak Naik  
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B_Solved-orange)](https://leetcode.com/u/SHAUNSET/)
+[![GitHub Projects](https://img.shields.io/badge/Projects-6%2B-blue)](https://github.com/SHAUNSET?tab=repositories)
+[![Writer](https://img.shields.io/badge/Writer-Young_India-purple)](https://youngindia.netlify.app/)
+[![Building](https://img.shields.io/badge/Status-Coding_🚀-yellow)]()
 
 **Quantitative Development | Machine Learning & Modeling | Markets & Investment Analysis | Algorithmic Trading | MERN & Blockchain (Foundations) | Writer**  
 
@@ -7,6 +13,10 @@ Hi! I'm Shaunak — I build systems that mix **math**, **markets**, and **intell
 I love turning raw data into structured signals, designing trading logic,  
 experimenting with ML models, and growing into a full-stack + blockchain capable engineer.  
 Also a **writer** and founder of the **[Young India](https://youngindia.netlify.app/)**
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true&hide_title=true)
 
 ---
 
@@ -38,15 +48,17 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 - 📊 **Quant Research & Signal Development**  
 - 💻 **Full-Stack Engineering Projects (MERN foundations)**
 - ⚡ **LeetCode Practice** - [160+ problems solved](https://leetcode.com/u/SHAUNSET/)
+
 ---
 
 ## 🔥 Highlighted Projects
 
-- **EMA Trading Strategy App**  
-- **Coffee Quality Predictor (TensorFlow)**  
-- **Market Simulator (Java + Swing + SQLite)**  
-- **Options Pricing Analyzer (Black–Scholes + Streamlit)**  
-- **Equal Weight S&P 500 Portfolio**
+| Project | Description | Tech | Code |
+|---------|-------------|------|------|
+| **Options Pricing Analyzer** | Live NSE options with Black-Scholes + Greeks | Python, Streamlit | [GitHub](https://github.com/SHAUNSET/options-pricing-analyzer) |
+| **Market Simulator** | Virtual trading platform | Java, Swing, SQLite | [GitHub](https://github.com/SHAUNSET/market_simulator) |
+| **EMA Trading Strategy** | Backtesting + paper trading engine | FastAPI, Pandas | [GitHub](https://github.com/SHAUNSET/ema-trading-simulator) |
+| **S&P 500 Portfolio Builder** | Equal-weight portfolio simulator | Streamlit, yFinance | [GitHub](https://github.com/SHAUNSET/sandp500) |
 
 ---
 
@@ -55,15 +67,19 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 - **Published Writer** - [Young India](https://youngindia.netlify.app/)
 - **JPMC Forage** - Quantitative Research & Software Engineering
 - **Coursera** - Wharton, Stanford, Yale certifications in finance & ML
+- **Technical Lead** - GDG & ACES College Clubs
+- **LeetCode** - 160+ problems solved across multiple patterns
 
 ---
 
 ## 📫 Connect With Me  
-- Instagram: https://www.instagram.com/shhh_upp/  
-- LinkedIn: https://www.linkedin.com/in/shaunak-naik-684644375/
--  LeetCode: https://leetcode.com/u/SHAUNSET/
-- GitHub: *already here 😄*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shaunak-naik-684644375)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/SHAUNSET/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://instagram.com/shhh_upp)
+[![GitHub](https://img.shields.io/badge/GitHub-Repos-black)](https://github.com/SHAUNSET)
 
 ---
+
+![Snake Animation](https://github.com/SHAUNSET/SHAUNSET/blob/output/github-contribution-grid-snake.svg)
 
 ### ⭐ “Learning every day. Building every week. Improving every month.”
