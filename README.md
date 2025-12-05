@@ -18,9 +18,14 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAUNSET&theme=dark&hide_border=true" width="500">
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SHAUNSET&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/SHAUNSET?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/SHAUNSET?style=social)
+![Repos](https://badgen.net/github/repos/SHAUNSET)
 
 **📈 Contribution Graph:**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github)
@@ -67,6 +72,10 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 | **EMA Trading Strategy** | Backtesting + paper trading engine | FastAPI, Pandas | [GitHub](https://github.com/SHAUNSET/ema-trading-simulator) |
 | **Coffee Roasting Predictor** | Binary classification with TensorFlow/NumPy | TensorFlow, Streamlit | [GitHub](https://github.com/SHAUNSET/coffee-quality-predictor) |
 | **S&P 500 Portfolio Builder** | Equal-weight portfolio simulator | Streamlit, yFinance | [GitHub](https://github.com/SHAUNSET/sandp500) |
+
+<!-- Demo GIFs placeholder - Add when projects are hosted -->
+<!-- ![Options Demo](media/options-demo.gif) -->
+<!-- ![Market Sim Demo](media/market-demo.gif) -->
 
 ---
 
