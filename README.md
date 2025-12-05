@@ -16,8 +16,8 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true)
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true" width="500">
 
 ---
 
@@ -69,6 +69,7 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 - **Published Writer** - [Young India](https://youngindia.netlify.app/)
 - **JPMC Forage** - Quantitative Research & Software Engineering
 - **Coursera** - Wharton, Stanford, Yale certifications in finance & ML
+- **LeetCode** - 160+ problems solved across multiple patterns
 
 ---
 
@@ -80,6 +81,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-![Snake Animation](https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/output/github-contribution-grid-snake.svg" width="100%">
 
 ### ⭐ "Learning every day. Building every week. Improving every month."
