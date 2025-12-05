@@ -81,6 +81,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-<img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/output/github-contribution-grid-snake.svg" width="100%">
+![Snake Animation](https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/snake.svg)
 
 ### ⭐ "Learning every day. Building every week. Improving every month."
