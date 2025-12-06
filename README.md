@@ -19,7 +19,7 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAUNSET&theme=dark&hide_border=true" width="500">
+  <img src="https://streak-stats.demolab.com/?user=SHAUNSET&theme=dark&hide_border=true" width="500">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SHAUNSET&color=blue)
@@ -114,4 +114,8 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ![Snake Animation](https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/snake.svg)
 
+<!-- Last updated: December 7, 2025 -->
+
 ### ⭐ "Learning every day. Building every week. Improving every month."
+
+
