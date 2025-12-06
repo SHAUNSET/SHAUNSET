@@ -32,22 +32,39 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-## 🔧 Tech & Tools I Work With
+## 🔧 Tech Stack
 
-**Machine Learning:**  
-`Python` • `NumPy` • `Pandas` • `Scikit-Learn` • `TensorFlow`
+### **Machine Learning & Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Quant / Trading Systems:**  
-`Backtesting` • `Strategy Modeling` • `Indicators` • `Market Simulation`
+### **Quantitative Finance & Trading**
+![Black-Scholes](https://img.shields.io/badge/Black–Scholes-8A2BE2?style=for-the-badge)
+![Backtesting](https://img.shields.io/badge/Backtesting-4B0082?style=for-the-badge)
+![Portfolio Theory](https://img.shields.io/badge/Portfolio_Theory-006400?style=for-the-badge)
+![Options Pricing](https://img.shields.io/badge/Options_Pricing-DAA520?style=for-the-badge)
 
-**Software & Backend:**  
-`Java` • `OOP` • `APIs` • `Databases` • `SQLite`
+### **Software Engineering & Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-8B0000?style=for-the-badge)
 
-**Web Dev:**  
-`HTML` • `CSS` • `JavaScript` • `Node.js` • *(MERN foundations in progress)*
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Blockchain (Foundations):**  
-`Solidity` • `Smart Contracts` • `EVM Basics`
+### **Blockchain & Emerging Tech**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 
 ---
 
