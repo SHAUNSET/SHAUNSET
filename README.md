@@ -23,12 +23,12 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SHAUNSET&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/SHAUNSET?style=social)
+![GitHub Followers](https://img.shields.io/bithub/followers/SHAUNSET?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/SHAUNSET?style=social)
 ![Repositories](https://img.shields.io/badge/📁_Repositories-10+-brightgreen)
 
-**📈 Recent Activity:**
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SHAUNSET&theme=react-dark&hide_border=true)
+**📈 Contribution Graph:**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github&hide_border=true&area=true)
 ---
 
 ## 🔧 Tech Stack
