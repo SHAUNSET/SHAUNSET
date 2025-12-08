@@ -36,6 +36,14 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github-dark&hide_border=true&area=true)
 ---
 
+## 🚀 **Recent Activity**
+
+<!--START_SECTION:activity-->
+<!-- Activity will be inserted here automatically -->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🔧 Tech Stack
 
 ### **Machine Learning & Data Science**
