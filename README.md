@@ -18,8 +18,9 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ## 📊 **GitHub Stats**
 
+### ⭐ GitHub Streak  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/streak.svg" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SHAUNSET&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
