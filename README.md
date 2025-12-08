@@ -16,24 +16,30 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats & Activity**
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAUNSET&theme=radical&hide_border=true" />
+  <!-- Total commits + current streak + longest streak -->
+  <img src="https://streak-stats.demolab.com/?user=SHAUNSET&theme=radical&hide_border=false&locale=en" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical&hide_border=true" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical&hide_border=false" />
+</p>
+
 ---
 
 ## 📈 **Contribution Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github-dark&hide_border=true&area=true&height=300" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=SHAUNSET&theme=github-dark&area=true&hide_border=false&color=58a6ff&line=false&point=true" />
 </p>
 
+---
 
 <!--START_SECTION:activity-->
 <!-- Activity will be inserted here automatically -->
@@ -99,10 +105,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 | **Coffee Roasting Predictor** | Binary classification with TensorFlow/NumPy | TensorFlow, Streamlit | [GitHub](https://github.com/SHAUNSET/coffee-quality-predictor) |
 | **S&P 500 Portfolio Builder** | Equal-weight portfolio simulator | Streamlit, yFinance | [GitHub](https://github.com/SHAUNSET/sandp500) |
 
-<!-- Demo GIFs placeholder - Add when projects are hosted -->
-<!-- ![Options Demo](media/options-demo.gif) -->
-<!-- ![Market Sim Demo](media/market-demo.gif) -->
-
 ---
 
 ## 🏆 Achievements
@@ -123,10 +125,7 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ![Snake Animation](https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/snake.svg)
 
-<!-- Last updated: December 7, 2025 -->
+<!-- Last updated: December 8, 2025 -->
 
 ### ⭐ "Learning every day. Building every week. Improving every month."
 
-
-<!-- AUTO UPDATE: 2025-12-08 15:18:37 IST -->
-<!-- AUTO UPDATE: 2025-12-08 15:18:47 IST -->
