@@ -19,11 +19,10 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://stats.quine.sh/SHAUNSET/github?theme=dark)
-
-![GitHub Streak](https://git-streak-stats.herokuapp.com/?user=SHAUNSET&theme=radical)
-
-![Top Languages](https://stats.quine.sh/SHAUNSET/top-languages?theme=dark&layout=compact)
+![Followers](https://img.shields.io/github/followers/SHAUNSET?style=for-the-badge&color=blue)
+![Public Repos](https://img.shields.io/github/public-repos/SHAUNSET?style=for-the-badge&color=green)
+![Total Stars](https://img.shields.io/github/stars/SHAUNSET?style=for-the-badge&color=gold)
+![Contributions](https://img.shields.io/github/commit-activity/m/SHAUNSET?style=for-the-badge&color=orange)
 
 ---
 
