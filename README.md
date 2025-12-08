@@ -19,16 +19,15 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHAUNSET&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAUNSET&theme=radical&hide_border=true" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical&hide_border=true" />
+</div>
 
----
-
-## 🏆 **GitHub Trophies**
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SHAUNSET&theme=onedark&no-frame=true&row=2)
 
 ---
 
@@ -36,9 +35,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github-dark&hide_border=true&area=true)
 
----
-
-## 🚀 **Recent Activity**
 
 <!--START_SECTION:activity-->
 <!-- Activity will be inserted here automatically -->
