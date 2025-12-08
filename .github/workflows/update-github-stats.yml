@@ -1,12 +1,12 @@
-name: Update GitHub Stats & Contribution Graph
+name: Update GitHub Stats & Activity Feed
 
 on:
   schedule:
-    - cron: '0 0 * * *' # daily at midnight UTC
-  workflow_dispatch: # manual trigger
+    - cron: '0 0 * * *'  # daily midnight UTC
+  workflow_dispatch:
 
 jobs:
-  update-stats:
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,13 +22,17 @@ jobs:
         run: |
           curl -o contributions.svg "https://activity-graph.herokuapp.com/graph?username=SHAUNSET&theme=github-dark&area=true&hide_border=false"
 
-      # Commit & push
-      - name: Commit & push
+      # Generate activity feed
+      - name: Update activity feed
+        uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # use your personal secret token
+
+      # Commit & push updated images and activity
+      - name: Commit & push
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add streak.svg contributions.svg
-          git commit -m "Update GitHub streak & contribution graph" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/SHAUNSET/SHAUNSET.git HEAD:main
+          git add streak.svg contributions.svg activity.md
+          git commit -m "Update GitHub streak, contribution graph & activity feed" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/SHAUNSET/SHAUNSET.git HEAD:main
