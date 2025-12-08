@@ -1,35 +1,33 @@
-name: Daily Activity Update
+name: Daily Contribution Update
 on:
   schedule:
-    - cron: '0 12 * * *'  # Daily at 12:00 PM UTC
+    - cron: '30 12 * * *'  # Daily at 12:30 PM UTC (6:00 PM IST)
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'     
-        required: false
-        default: 'warning'
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  update-contributions:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Git
+      - name: Update README with timestamp
+        run: |
+          # Get current date in IST
+          IST_DATE=$(TZ="Asia/Kolkata" date '+%Y-%m-%d %H:%M:%S %Z')
+          # Add timestamp to README
+          sed -i "/<!-- AUTO UPDATE -->/d" README.md
+          echo "<!-- AUTO UPDATE: $IST_DATE -->" >> README.md
+          
+      - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-      - name: Create or update timestamp
-        run: |
-          echo "Daily update: $(date -u)" > daily-activity.txt
-          
-      - name: Commit changes
-        run: |
-          git add daily-activity.txt
-          git commit -m "Daily activity: $(date -u '+%Y-%m-%d')" || exit 0
+          git add README.md
+          git commit -m "📅 Daily contribution: $(TZ="Asia/Kolkata" date '+%Y-%m-%d')" || echo "No changes"
           git push
