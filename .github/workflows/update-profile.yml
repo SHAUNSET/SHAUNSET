@@ -12,31 +12,30 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}   # IMPORTANT FIX
 
-      # Generate streak.svg and contributions.svg
       - name: Generate Streak & Contribution Graph
         run: |
           curl -o streak.svg "https://streak-stats.demolab.com?user=SHAUNSET&theme=dark&hide_border=true"
           curl -o contributions.svg "https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=react-dark&hide_border=true"
 
-      # Generate activity.md using your token
-      - name: Generate Recent Activity
+      - name: Generate Activity Feed
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_ACTIVITY_README_OUTPUT_FILE: activity.md
 
-      # Commit & Push changes
-      - name: Commit & Push
+      - name: Commit and Push
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
 
-          # Only add files that exist (all these should)
-          if [ -f streak.svg ]; then git add streak.svg; fi
-          if [ -f contributions.svg ]; then git add contributions.svg; fi
-          if [ -f activity.md ]; then git add activity.md; fi
+          git add streak.svg || true
+          git add contributions.svg || true
+          git add activity.md || true
 
-          git commit -m "Update streak, contributions graph & activity feed" || echo "No changes to commit"
+          git commit -m "Update streak, contributions graph & activity feed" || echo "No changes"
 
+          # 🔥 ABSOLUTE FIX: FORCE PUSH USING PERSONAL TOKEN
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/SHAUNSET/SHAUNSET.git HEAD:main
