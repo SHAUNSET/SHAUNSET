@@ -16,19 +16,24 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SHAUNSET&theme=dark&hide_border=true" width="500">
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHAUNSET&theme=radical&hide_border=true" /> |
+| :--- | :--- |
 
-![Profile Views](https://komarev.com/ghpvc/?username=SHAUNSET&color=blue)
-![GitHub Followers](https://img.shields.io/bithub/followers/SHAUNSET?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/SHAUNSET?style=social)
-![Repositories](https://img.shields.io/badge/📁_Repositories-10+-brightgreen)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical&hide_border=true" />
 
-**📈 Contribution Graph:**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github&hide_border=true&area=true)
+---
+
+## 🏆 **GitHub Trophies**
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SHAUNSET&theme=onedark&no-frame=true&row=2&column=4)
+
+---
+
+## 📈 **Contribution Graph**
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github-dark&hide_border=true&area=true)
 ---
 
 ## 🔧 Tech Stack
