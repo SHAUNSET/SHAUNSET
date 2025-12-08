@@ -21,7 +21,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=SHAUNSET&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
