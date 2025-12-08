@@ -27,9 +27,8 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 ![GitHub Stars](https://img.shields.io/github/stars/SHAUNSET?style=social)
 ![Repositories](https://img.shields.io/badge/📁_Repositories-10+-brightgreen)
 
-**📈 Contribution Graph:**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github)
-
+**📈 Recent Activity:**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SHAUNSET&theme=react-dark&hide_border=true)
 ---
 
 ## 🔧 Tech Stack
