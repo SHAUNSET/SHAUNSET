@@ -1,34 +1,32 @@
-name: Update GitHub Stats
+name: Update GitHub Stats & Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' # runs daily at midnight UTC
-  workflow_dispatch: # can also trigger manually
+    - cron: '0 0 * * *' # daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  build:
+  update-stats:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set up Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      - name: Install dependencies
+      # Download streak image directly
+      - name: Download streak image
         run: |
-          npm install -g github-readme-streak-stats
+          curl -o streak.svg "https://streak-stats.demolab.com/?user=SHAUNSET&theme=radical&hide_border=false"
 
-      - name: Generate streak image
+      # Download contribution graph image
+      - name: Download contribution graph
         run: |
-          github-readme-streak-stats --user SHAUNSET --output ./streak.svg --theme radical
+          curl -o contributions.svg "https://activity-graph.herokuapp.com/graph?username=SHAUNSET&theme=github-dark&area=true&hide_border=false"
 
+      # Commit and push updated images
       - name: Commit & push
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add streak.svg
-          git commit -m "Update streak image"
+          git add streak.svg contributions.svg
+          git commit -m "Update GitHub streak & contribution graph" || echo "No changes to commit"
           git push
