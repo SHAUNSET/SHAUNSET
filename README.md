@@ -16,23 +16,29 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
-### ⭐ GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SHAUNSET&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <!-- Use the raw.githubusercontent.com URL for guaranteed loading on profile -->
+  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical&hide_border=true" />
+  <!-- This is stable hosted stats (no commit required) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 
-## 📈 **Contribution Graph**
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/SHAUNSET/SHAUNSET/blob/main/contributions.svg" />
+  <!-- Use raw.githubusercontent URL to ensure the image is served from your repo (works on profile) -->
+  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/contributions.svg" alt="Contribution Graph" />
 </p>
 
 ---
