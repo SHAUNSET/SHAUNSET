@@ -16,32 +16,25 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
+
 ## 📊 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAUNSET&theme=radical&hide_border=true" />
-</div>
+![GitHub Stats](https://stats.quine.sh/SHAUNSET/github?theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SHAUNSET&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical&hide_border=true" />
-</div>
+![Top Languages](https://stats.quine.sh/SHAUNSET/top-languages?theme=dark&layout=compact)
 
 ---
 
 ## 🏆 **GitHub Trophies**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHAUNSET&theme=onedark&no-frame=true&row=2&column=4" />
-</div>
+![Trophies](https://github-profile-trophy.glitch.me/?username=SHAUNSET)
 
 ---
 
 ## 📈 **Contribution Graph**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github-dark&hide_border=true&area=true" />
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAUNSET&theme=github-dark&hide_border=true&area=true)
 
 ---
 
