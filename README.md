@@ -16,11 +16,15 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/streak.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/contributions.svg" alt="Contribution Graph" />
 </p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -28,14 +32,6 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/contributions.svg" alt="Contribution Graph" />
 </p>
 
 ---
