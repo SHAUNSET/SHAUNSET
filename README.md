@@ -19,7 +19,7 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/contributions.svg" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 ---
