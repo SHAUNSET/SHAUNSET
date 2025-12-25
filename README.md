@@ -1,42 +1,51 @@
-## Hi there 👋
+## Hi there 👋  
+# **Shaunak Naik**
 
-# Shaunak Naik  
+<p align="center">
+  <a href="https://leetcode.com/u/SHAUNSET/">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-orange" />
+  </a>
+  <a href="https://github.com/SHAUNSET?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-6%2B-blue" />
+  </a>
+  <a href="https://youngindia.netlify.app/">
+    <img src="https://img.shields.io/badge/Writer-Young_India-purple" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Coding_🚀-yellow" />
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B_Solved-orange)](https://leetcode.com/u/SHAUNSET/)
-[![GitHub Projects](https://img.shields.io/badge/Projects-6%2B-blue)](https://github.com/SHAUNSET?tab=repositories)
-[![Writer](https://img.shields.io/badge/Writer-Young_India-purple)](https://youngindia.netlify.app/)
-[![Building](https://img.shields.io/badge/Status-Coding_🚀-yellow)]()
+---
 
-**Quantitative Development | Machine Learning & Modeling | Markets & Investment Analysis | Algorithmic Trading | MERN & Blockchain (Foundations) | Writer**  
+### **Quantitative Development · Machine Learning & Modeling · Markets & Investment Analysis**  
+### **Algorithmic Trading · MERN & Blockchain (Foundations) · Writer**
 
-Hi! I'm Shaunak — I build systems that mix **math**, **markets**, and **intelligent automation**.  
-I love turning raw data into structured signals, designing trading logic,  
-experimenting with ML models, and growing into a full-stack + blockchain capable engineer.  
-Also a **writer** and founder of the **[Young India](https://youngindia.netlify.app/)**
+Hi! I’m **Shaunak** — I build systems at the intersection of **mathematics, markets, and intelligent automation**.
+
+I enjoy transforming raw data into **structured signals**, designing **robust trading logic**, experimenting with **machine learning models**, and steadily growing into a **full-stack + blockchain-capable engineer**.
+
+Alongside code, I write — exploring ideas around society, systems, and progress as the founder of **[Young India](https://youngindia.netlify.app/)**.
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/profile-3d-contrib/profile-night-view.svg" />
+  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/profile-3d-contrib/profile-season-animate.svg" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Skill Radar
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHAUNSET&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-radar-chart.vercel.app/api?username=SHAUNSET&skills=Data%20Structures,Algorithms,Machine%20Learning,Quantitative%20Finance,Backend%20Development,Web%20Development,Blockchain&values=80,85,75,78,72,70,65&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHAUNSET&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+> *A visual snapshot of my current skill distribution — continuously evolving.*
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack & Tools
 
 ### **Machine Learning & Data Science**
 <p align="left">
@@ -82,40 +91,44 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 
 ---
 
-## 📈 What I'm Currently Building
+## 🚀 What I’m Currently Building
 
-- 🤖 **Automated Trading Bots & Quant Strategy Engine**  
-- 🛰️ **AI Maritime Defence Surveillance System**  
-- ⚖️ **Law Query → Section Retrieval Tool**  
-- 🐾 **Furever — Full-Stack Startup Website**  
-- 📊 **Quant Research & Signal Development**  
-- 💻 **Full-Stack Engineering Projects (MERN foundations)**
-- ⚡ **LeetCode Practice** - [160+ problems solved](https://leetcode.com/u/SHAUNSET/)
+- 🤖 **Automated Trading Bots & Quant Strategy Engine**
+- 🛰️ **AI-Powered Maritime Defence Surveillance System**
+- ⚖️ **Law Query → Section Retrieval Tool**
+- 🐾 **Furever — Full-Stack Startup Website**
+- 📊 **Quant Research, Backtesting & Signal Development**
+- 💻 **Full-Stack Engineering Projects (MERN Foundations)**
+- ⚡ **LeetCode Practice** — [200+ problems solved](https://leetcode.com/u/SHAUNSET/)
 
 ---
 
 ## 🔥 Highlighted Projects
 
 | Project | Description | Tech | Code |
-|---------|-------------|------|------|
-| **Options Pricing Analyzer** | Live NSE options with Black-Scholes + Greeks | Python, Streamlit | [GitHub](https://github.com/SHAUNSET/options-pricing-analyzer) |
-| **Market Simulator** | Virtual trading platform | Java, Swing, SQLite | [GitHub](https://github.com/SHAUNSET/market_simulator) |
-| **EMA Trading Strategy** | Backtesting + paper trading engine | FastAPI, Pandas | [GitHub](https://github.com/SHAUNSET/ema-trading-simulator) |
-| **Coffee Roasting Predictor** | Binary classification with TensorFlow/NumPy | TensorFlow, Streamlit | [GitHub](https://github.com/SHAUNSET/coffee-quality-predictor) |
-| **S&P 500 Portfolio Builder** | Equal-weight portfolio simulator | Streamlit, yFinance | [GitHub](https://github.com/SHAUNSET/sandp500) |
+|------|------------|------|------|
+| **Options Pricing Analyzer** | Live NSE options pricing with Black-Scholes & Greeks | Python, Streamlit | [GitHub](https://github.com/SHAUNSET/options-pricing-analyzer) |
+| **Market Simulator** | Virtual trading platform & simulator | Java, Swing, SQLite | [GitHub](https://github.com/SHAUNSET/market_simulator) |
+| **EMA Trading Strategy** | Strategy backtesting & paper trading engine | FastAPI, Pandas | [GitHub](https://github.com/SHAUNSET/ema-trading-simulator) |
+| **Coffee Roasting Predictor** | Binary classification using ML & neural nets | TensorFlow, Streamlit | [GitHub](https://github.com/SHAUNSET/coffee-quality-predictor) |
+| **S&P 500 Portfolio Builder** | Equal-weight portfolio simulation | Streamlit, yFinance | [GitHub](https://github.com/SHAUNSET/sandp500) |
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Learning
 
-- **Published Writer** - [Young India](https://youngindia.netlify.app/)
-- **JPMC Forage** - Quantitative Research & Software Engineering
-- **Coursera** - Wharton, Stanford, Yale certifications in finance & ML
+- ✍️ **Published Writer** — [Young India](https://youngindia.netlify.app/)
+- 💼 **JPMC Forage** — Quantitative Research & Software Engineering
+- 🎓 **Coursera** — Wharton, Stanford & Yale (Finance, Markets & ML)
 
 ---
 
-![Snake Animation](https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/snake.svg" />
+</p>
 
-### ⭐ "Learning every day. Building every week. Improving every month."
+---
+
+### ⭐ *“Learning every day. Building every week. Improving every month.”*
 
 <!-- AUTO UPDATE: 2025-12-08 -->
