@@ -17,7 +17,7 @@ Also a **writer** and founder of **[Young India](https://youngindia.netlify.app/
 
 ---
 
-## 🌌 Contribution Graph 
+## Contribution Graph 
 
 <p align="center">
   <img 
@@ -28,7 +28,7 @@ Also a **writer** and founder of **[Young India](https://youngindia.netlify.app/
 
 ---
 
-## 🧠 Skill Radar (Bar Style)
+## Skill Radar (Bar Style)
 
 ```text
 Algorithms & DSA       [██████████] 90%  
@@ -41,7 +41,7 @@ Quantitative Modeling   [████████  ] 76%
 ```
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### **Machine Learning & Data Science**
 <p>
@@ -84,7 +84,7 @@ Quantitative Modeling   [████████  ] 76%
 
 ---
 
-## 🚀 What I'm Currently Building
+## What I'm Currently Building
 
 - 🤖 **Automated Trading Bots & Quant Strategy Engine**
 - 📊 **Quant Research & Signal Development**
@@ -95,7 +95,7 @@ Quantitative Modeling   [████████  ] 76%
 
 ---
 
-## 🔥 Highlighted Projects
+## Highlighted Projects
 
 | Project | Description | Tech | Code |
 |-------|------------|------|------|
@@ -106,7 +106,7 @@ Quantitative Modeling   [████████  ] 76%
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - ✍️ **Published Writer** — Young India  
 - 🏦 **JPMC Forage** — Quant & Software Engineering  
@@ -118,6 +118,5 @@ Quantitative Modeling   [████████  ] 76%
   <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/snake.svg" />
 </p>
 
-> ⭐ *Learning every day. Building every week. Improving every month.*
 
 <!-- AUTO UPDATE ENABLED -->
