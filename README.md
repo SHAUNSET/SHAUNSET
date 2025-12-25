@@ -17,22 +17,27 @@ Also a **writer** and founder of **[Young India](https://youngindia.netlify.app/
 
 ---
 
-## 🌌 Contribution Graph (Live & Auto-Updated)
+## 🌌 Contribution Graph (Dark Theme)
 
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/profile-3d-contrib/profile-night-green.svg" 
-    alt="GitHub Contribution Graph (Dark Theme)"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
 ---
 
-## 🧠 Skill Radar
+## 🧠 Skill Radar (Bar Style)
 
-<p align="center">
-  <img src="assets/skill-radar.png" alt="Skill Radar Chart" width="500"/>
-</p>
+```text
+Algorithms & DSA       [██████████] 90%  
+Machine Learning        [███████   ] 72%  
+Backend & APIs          [████████  ] 78%  
+Web Development         [████████  ] 74%  
+Databases               [███████   ] 70%  
+Software Engineering    [█████████ ] 80%  
+Quantitative Modeling   [████████  ] 76%
 
 ---
 
