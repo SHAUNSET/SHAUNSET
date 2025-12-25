@@ -17,7 +17,7 @@ Also a **writer** and founder of **[Young India](https://youngindia.netlify.app/
 
 ---
 
-## 🌌 Contribution Graph (Dark Theme)
+## 🌌 Contribution Graph 
 
 <p align="center">
   <img 
