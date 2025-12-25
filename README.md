@@ -38,7 +38,7 @@ Web Development         [████████  ] 74%
 Databases               [███████   ] 70%  
 Software Engineering    [█████████ ] 80%  
 Quantitative Modeling   [████████  ] 76%
-
+```
 ---
 
 ## 🔧 Tech Stack
