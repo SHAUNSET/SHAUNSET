@@ -35,6 +35,10 @@ Also a **writer** and founder of the **[Young India](https://youngindia.netlify.
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SHAUNSET/SHAUNSET/main/profile-3d-contrib/profile-season-animate.svg" />
+</p>
+---
 
 ## 🔧 Tech Stack
 
