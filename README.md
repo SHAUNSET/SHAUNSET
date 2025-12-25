@@ -31,10 +31,7 @@ Also a **writer** and founder of **[Young India](https://youngindia.netlify.app/
 ## 🧠 Skill Radar
 
 <p align="center">
-  <img 
-    src="https://quickchart.io/chart?width=500&height=500&c={type:'radar',data:{labels:['Algorithms','ML','Backend','Web','DB','SE','Quant'],datasets:[{label:'Skill Level',data:[90,72,78,74,70,80,76],fill:true,backgroundColor:'rgba(0,200,120,0.25)',borderColor:'rgba(0,200,120,1)',pointBackgroundColor:'rgba(0,200,120,1)'}]},options:{scales:{r:{angleLines:{color:'#666'},grid:{color:'#666'},pointLabels:{color:'#fff',font:{size:12}},ticks:{display:false}}},plugins:{legend:{labels:{color:'#fff'}}}}}"
-    alt="Skill Radar Chart"
-  />
+  <img src="assets/skill-radar.png" alt="Skill Radar Chart" width="500"/>
 </p>
 
 ---
